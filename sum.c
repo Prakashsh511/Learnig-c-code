@@ -16,10 +16,10 @@ int getmul(int num){
     return mul;
 }
 int main(){
-    int ans = getsum(5);
-    int ans1 = getmul(5);
-    printf("\n%d",ans);
-    printf("\n%d",ans1);
+    int ans = getsum(5);         // calling getsum function   
+    int ans1 = getmul(5);       // calling getmul function
+    printf("\n%d",ans);        // print hte ans from getsum function
+    printf("\n%d",ans1);      // print hte ans from getmul function
 }
    
     
