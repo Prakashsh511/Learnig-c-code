@@ -1,2 +1,2 @@
 # Learnig-c-code
-learning basic c programming
+learning basic C programming
